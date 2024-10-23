@@ -1,0 +1,6 @@
+/Data
+/Data_extracted
+/.ipynb_checkpoints
+*.pyc
+*.nc
+*.tif
