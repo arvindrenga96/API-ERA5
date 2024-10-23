@@ -11,8 +11,8 @@ import numpy as np
 import xarray as xr
 
 # Pre-requirements
-udi = '83f26bcf-91c9-4570-bfbc-aceb220f80a7'
-key = 'e6487f45-a948-4134-b1e0-4d8087f87c73' 
+udi = '83f26bcf-91c9-4570-bfbc-aceb2yyyy'
+key = 'e6487f45-a948-4134-b1e0-4d8087XXX' #change this to your own key and udi
 
 path = '/home/kumarv/renga/Documents/Fall_24/API-ERA5/Data'
 
